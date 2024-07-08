@@ -1,0 +1,1363 @@
+{
+    "Status": true,
+    "ErrorMessage": null,
+    "FlightProposals": [
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzBfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "8h 40m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "03:45",
+                    "ArrivalTime": "11:55",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "1",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "513",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "03:45",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "06:35",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2008",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "10:35",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "11:55",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "J"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "98975600",
+                "Tax": "57540000",
+                "providerFare": "4948800",
+                "TotalCommission": "156515600",
+                "Commission": "4948800",
+                "Total": "161464400",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "161464400",
+                        "BaseFare": "98975600",
+                        "Tax": "57540000",
+                        "providerFare": "4948800",
+                        "Total": "161464400",
+                        "Commission": "4948800",
+                        "TotalCommission": "156515600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzFfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "8h 40m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "03:45",
+                    "ArrivalTime": "11:55",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "1",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "513",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "03:45",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "06:35",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2008",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "10:35",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "11:55",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "J"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "116785600",
+                "Tax": "57540000",
+                "providerFare": "5839300",
+                "TotalCommission": "174325600",
+                "Commission": "5839300",
+                "Total": "180164900",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "180164900",
+                        "BaseFare": "116785600",
+                        "Tax": "57540000",
+                        "providerFare": "5839300",
+                        "Total": "180164900",
+                        "Commission": "5839300",
+                        "TotalCommission": "174325600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzJfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "13h 25m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "03:45",
+                    "ArrivalTime": "16:40",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "1",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "513",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "03:45",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "06:35",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2016",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "15:20",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "16:40",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "F"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "76370600",
+                "Tax": "57540000",
+                "providerFare": "3818500",
+                "TotalCommission": "133910600",
+                "Commission": "3818500",
+                "Total": "137729100",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "137729100",
+                        "BaseFare": "76370600",
+                        "Tax": "57540000",
+                        "providerFare": "3818500",
+                        "Total": "137729100",
+                        "Commission": "3818500",
+                        "TotalCommission": "133910600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzNfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "13h 25m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "03:45",
+                    "ArrivalTime": "16:40",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "1",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "513",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "03:45",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "06:35",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2016",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "15:20",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "16:40",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "F"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "94180600",
+                "Tax": "57540000",
+                "providerFare": "4709000",
+                "TotalCommission": "151720600",
+                "Commission": "4709000",
+                "Total": "156429600",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "156429600",
+                        "BaseFare": "94180600",
+                        "Tax": "57540000",
+                        "providerFare": "4709000",
+                        "Total": "156429600",
+                        "Commission": "4709000",
+                        "TotalCommission": "151720600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzRfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "6h 40m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "03:45",
+                    "ArrivalTime": "09:55",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "1",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "513",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "03:45",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "06:35",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2006",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "08:35",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:55",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "A"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "85960600",
+                "Tax": "57540000",
+                "providerFare": "4298000",
+                "TotalCommission": "143500600",
+                "Commission": "4298000",
+                "Total": "147798600",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "147798600",
+                        "BaseFare": "85960600",
+                        "Tax": "57540000",
+                        "providerFare": "4298000",
+                        "Total": "147798600",
+                        "Commission": "4298000",
+                        "TotalCommission": "143500600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzVfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "6h 40m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "03:45",
+                    "ArrivalTime": "09:55",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "1",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "513",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "03:45",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "06:35",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2006",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "08:35",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:55",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "A"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "103770600",
+                "Tax": "57540000",
+                "providerFare": "5188500",
+                "TotalCommission": "161310600",
+                "Commission": "5188500",
+                "Total": "166499100",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "166499100",
+                        "BaseFare": "103770600",
+                        "Tax": "57540000",
+                        "providerFare": "5188500",
+                        "Total": "166499100",
+                        "Commission": "5188500",
+                        "TotalCommission": "161310600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzZfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "11h 15m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "06:25",
+                    "ArrivalTime": "17:10",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "9",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "517",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "06:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:15",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2010",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "15:50",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "17:10",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "W"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "64999600",
+                "Tax": "57540000",
+                "providerFare": "3250000",
+                "TotalCommission": "122539600",
+                "Commission": "3250000",
+                "Total": "125789600",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "125789600",
+                        "BaseFare": "64999600",
+                        "Tax": "57540000",
+                        "providerFare": "3250000",
+                        "Total": "125789600",
+                        "Commission": "3250000",
+                        "TotalCommission": "122539600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzdfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "11h 15m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "06:25",
+                    "ArrivalTime": "17:10",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "9",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "517",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "06:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:15",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2010",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "15:50",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "17:10",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "W"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "82809600",
+                "Tax": "57540000",
+                "providerFare": "4140500",
+                "TotalCommission": "140349600",
+                "Commission": "4140500",
+                "Total": "144490100",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "144490100",
+                        "BaseFare": "82809600",
+                        "Tax": "57540000",
+                        "providerFare": "4140500",
+                        "Total": "144490100",
+                        "Commission": "4140500",
+                        "TotalCommission": "140349600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzhfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "12h 50m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "06:25",
+                    "ArrivalTime": "18:45",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "9",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "517",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "06:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:15",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2018",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "17:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "18:45",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "E"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "58834600",
+                "Tax": "57540000",
+                "providerFare": "2941700",
+                "TotalCommission": "116374600",
+                "Commission": "2941700",
+                "Total": "119316300",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "119316300",
+                        "BaseFare": "58834600",
+                        "Tax": "57540000",
+                        "providerFare": "2941700",
+                        "Total": "119316300",
+                        "Commission": "2941700",
+                        "TotalCommission": "116374600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzlfNDc=",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "12h 50m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "06:25",
+                    "ArrivalTime": "18:45",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "9",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "517",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "06:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:15",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2018",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "17:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "18:45",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "E"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "76644600",
+                "Tax": "57540000",
+                "providerFare": "3832200",
+                "TotalCommission": "134184600",
+                "Commission": "3832200",
+                "Total": "138016800",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "138016800",
+                        "BaseFare": "76644600",
+                        "Tax": "57540000",
+                        "providerFare": "3832200",
+                        "Total": "138016800",
+                        "Commission": "3832200",
+                        "TotalCommission": "134184600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzEwXzQ3",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "10h 45m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "06:25",
+                    "ArrivalTime": "16:40",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "9",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "517",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "06:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:15",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2016",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "15:20",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "16:40",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "F"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "71164600",
+                "Tax": "57540000",
+                "providerFare": "3558200",
+                "TotalCommission": "128704600",
+                "Commission": "3558200",
+                "Total": "132262800",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "132262800",
+                        "BaseFare": "71164600",
+                        "Tax": "57540000",
+                        "providerFare": "3558200",
+                        "Total": "132262800",
+                        "Commission": "3558200",
+                        "TotalCommission": "128704600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "0",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '0 KG'}</p>"
+                }
+            ]
+        },
+        {
+            "FlightId": "NjY4MmQzNjliN2JiZmZjODY1OTQzNDAyXzExXzQ3",
+            "FlightGroup": [
+                {
+                    "Origin": "IKA",
+                    "Destination": "AYT",
+                    "Duration": "10h 45m",
+                    "NumberOfStops": 1,
+                    "DepartureDate": "2024-07-07",
+                    "DepartureTime": "06:25",
+                    "ArrivalTime": "16:40",
+                    "ArrivalDate": "2024-07-07",
+                    "Class": "Economy",
+                    "isSystemFlight": "true",
+                    "AvailableSeats": "9",
+                    "RoutesInfo": [
+                        {
+                            "SegmentId": 1,
+                            "FlightNumber": "517",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "06:25",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "09:15",
+                            "Duration": "3h 20m",
+                            "OriginAirport": "IKA",
+                            "DestinationAirport": "SAW",
+                            "Class": "Economy",
+                            "ClassCode": "Z"
+                        },
+                        {
+                            "SegmentId": 2,
+                            "FlightNumber": "2016",
+                            "AirlineCode": "PC",
+                            "DepartureDate": "2024-07-07",
+                            "DepartureTime": "15:20",
+                            "ArrivalDate": "2024-07-07",
+                            "ArrivalTime": "16:40",
+                            "Duration": "1h 20m",
+                            "OriginAirport": "SAW",
+                            "DestinationAirport": "AYT",
+                            "Class": "Economy",
+                            "ClassCode": "F"
+                        }
+                    ]
+                }
+            ],
+            "PriceInfo": {
+                "BaseFare": "88974600",
+                "Tax": "57540000",
+                "providerFare": "4448700",
+                "TotalCommission": "146514600",
+                "Commission": "4448700",
+                "Total": "150963300",
+                "Currency": "IRR",
+                "PassengerFare": [
+                    {
+                        "passengerType": "Adult",
+                        "Count": 1,
+                        "Unit": "150963300",
+                        "BaseFare": "88974600",
+                        "Tax": "57540000",
+                        "providerFare": "4448700",
+                        "Total": "150963300",
+                        "Commission": "4448700",
+                        "TotalCommission": "146514600",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Child",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    },
+                    {
+                        "passengerType": "Infant",
+                        "Count": 0,
+                        "Unit": "0",
+                        "BaseFare": "0",
+                        "Tax": "0",
+                        "providerFare": "0",
+                        "Total": "0",
+                        "Commission": "0",
+                        "TotalCommission": "0",
+                        "Currency": "IRR"
+                    }
+                ]
+            },
+            "Baggages": [
+                {
+                    "SegmentId": 1,
+                    "Origin": "IKA",
+                    "Destination": "SAW",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                },
+                {
+                    "SegmentId": 2,
+                    "Origin": "SAW",
+                    "Destination": "AYT",
+                    "Baggage": "20",
+                    "Unit": "KG",
+                    "Description": "<p>ADT: {'Free Baggage Service Definition': '0 KG', 'Cabin Baggage Service Definition': 'SIZE 40x30x15 cm', 'Total Baggage Service Definition': '20 KG'}</p>"
+                }
+            ]
+        }
+    ]
+}
+
